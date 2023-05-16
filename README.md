@@ -1,7 +1,6 @@
 # Acoins
 Small coin-collecting platform game developed with MIPS Assembly. Created as a final project for CSCB58.
-![image](https://github.com/eunniie/Acoins/assets/114002081/95ef2682-50c2-461f-bec4-9dc3ff9f7452) ![image](https://github.com/eunniie/Acoins/assets/114002081/273b0967-c75d-410c-9d75-a310d6289ef5)
-
+<img src="https://github.com/eunniie/Acoins/assets/114002081/95ef2682-50c2-461f-bec4-9dc3ff9f7452" width="200"/><img src="https://github.com/eunniie/Acoins/assets/114002081/f55381f7-5cd3-4afc-ba16-28033fbe7f2d" width="200"/>
 
 # How To Play
 - Use `A` and `D` to move left and right and `space` to jump.
