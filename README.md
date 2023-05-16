@@ -3,8 +3,10 @@ Small coin-collecting platform game developed with MIPS Assembly. Created as a f
 <img src="https://github.com/eunniie/Acoins/assets/114002081/95ef2682-50c2-461f-bec4-9dc3ff9f7452" width="400"/><img src="https://github.com/eunniie/Acoins/assets/114002081/f55381f7-5cd3-4afc-ba16-28033fbe7f2d" width="400"/>
 
 # How To Play
-- Use `A` and `D` to move left and right and `space` to jump.
+- Use `WASD` to move around the map
+- Press `P` to play/restart the game at any point
 - Avoid the dangerous obstacles and collect all of the coins to win!
+
 
 # To Set-Up
 - Install Java and open the `Mars.jar` file 
@@ -17,5 +19,5 @@ Small coin-collecting platform game developed with MIPS Assembly. Created as a f
   - Display height in pixels: 512 
   - Base Address for Display: 0x10008000 ($gp)
 - Click `Connect to MIPS` on both tools
-- Run the program and type your controls in the keyboard simulator to move around
+- Assembly & run the program and type your controls in the keyboard simulator to move around
 
