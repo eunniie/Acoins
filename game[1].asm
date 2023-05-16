@@ -3,7 +3,7 @@
 # CSCB58 Winter 2023 Assembly Final Project
 # University of Toronto, Scarborough
 #
-# Student: Vicky Yang, 1008073371, yangbao1, vick.yang@mail.utoronto.ca
+# Student: Bao Yang, 1008073371, yangbao1, bao.yang@mail.utoronto.ca
 #
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8 
