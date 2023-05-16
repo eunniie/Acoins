@@ -1,5 +1,8 @@
 # Acoins
 Small coin-collecting platform game developed with MIPS Assembly. Created as a final project for CSCB58.
+![image](https://github.com/eunniie/Acoins/assets/114002081/95ef2682-50c2-461f-bec4-9dc3ff9f7452)
+![image](https://github.com/eunniie/Acoins/assets/114002081/ff57752a-f98f-46bd-9083-9d567649cc79)
+
 
 # How To Play
 - Use `A` and `D` to move left and right and `space` to jump.
@@ -9,7 +12,7 @@ Small coin-collecting platform game developed with MIPS Assembly. Created as a f
 - Install Java and open the `Mars.jar` file 
 - Use Mars to open the `game.asm` file
 - Under `Tools` open `Bitmap Display` and `Keyboard and Display MMIO Simulator`
-- Make the following configurations to `Bitmap Display`
+- Make the following configurations to `Bitmap Display`:
   - Unit width in pixels: 8 
   - Unit height in pixels: 8 
   - Display width in pixels: 512 
